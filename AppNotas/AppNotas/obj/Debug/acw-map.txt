@@ -1,0 +1,8 @@
+AppNotas.CreateActivity, AppNotas;md5f8570b50ba7a1d63c3441412359a31f9.CreateActivity
+AppNotas.CreateActivity, AppNotas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f8570b50ba7a1d63c3441412359a31f9.CreateActivity
+AppNotas.CreateActivity;md5f8570b50ba7a1d63c3441412359a31f9.CreateActivity
+appnotas.CreateActivity;md5f8570b50ba7a1d63c3441412359a31f9.CreateActivity
+AppNotas.MainActivity, AppNotas;md5f8570b50ba7a1d63c3441412359a31f9.MainActivity
+AppNotas.MainActivity, AppNotas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f8570b50ba7a1d63c3441412359a31f9.MainActivity
+AppNotas.MainActivity;md5f8570b50ba7a1d63c3441412359a31f9.MainActivity
+appnotas.MainActivity;md5f8570b50ba7a1d63c3441412359a31f9.MainActivity
